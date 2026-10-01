@@ -1,0 +1,8 @@
+source-wsq/
+assessment/
+*.zip
+.DS_Store
+__pycache__/
+*.tmp
+deck-inspect.txt
+lp-src-dump.txt
